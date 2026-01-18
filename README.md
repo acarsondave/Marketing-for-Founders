@@ -393,8 +393,9 @@ So, how do you get feedback? Here are a few resources to get you started:
 - [How Superhuman Built an Engine to Find Product Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - [MaxDiff: the secret to getting the truth from customers about what they actually care about](https://demandmaven.substack.com/p/maxdiff-the-secret-to-getting-the)
 - [Journey mapping interviews: a structured approach to analyzing the onboarding experience](https://shili.substack.com/p/journey-mapping-interviews-dev-tools)
+- [A short introduction to Jobs To Be Done](https://valchanova.me/customer-development-jobs-to-be-done/)
 - [22 questions you should be asking your customers](https://x.com/samanthalcc/status/1567859143926599681)
-- [Jobs To Be Done: Email Invite Template & Interview Questions by Forget The Funnel](https://docs.google.com/document/d/183PzYjQi2vsIRlPMUrtzRwZF1VdnZWNDAZsrJ4MRT4Q/edit?tab=t.0#heading=h.qgx3g981sn95)
+- [Jobs To Be Done: Email Invite Template & Interview Questions by Forget The Funnel](https://forgetthefunnel.com/resources/jobs-to-be-done-interview-questions-email-script)
 - [Maze Question Bank: over 350 ready-to-go questions for your research projects](https://mazedesign.notion.site/dd213d94bcf046738434f93ce8152ab6?v=d05d4225bd8142dbb990e047e6d2ab24)
 - Customer interview scripts (thanks to [Michele Hansen](https://mjwhansen.com/))
   - [New Customer Script](https://deployempathy.substack.com/p/customer-interview-script-template-relatively-new-customer-aka-jtbd-switch-interview-415338) - to uncover the initial part of the customer's journey
