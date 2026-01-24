@@ -17,10 +17,11 @@ This is why you’ll find here a practical collection of startup resources, tips
 
 **Ready to get started? Just pick a topic:**
 - [📣 Places To Launch Your Startup](#-places-to-launch-your-startup)
+- [😾 Marketing for Product Hunt Launch](#-marketing-for-product-hunt-launch) _**NEW!**_
 - [📷 Social Media Marketing](#-social-media-marketing)
 - [❄ Sales & Cold Outreach](#-sales--cold-outreach)
 - [📈 SEO](#-seo)
-- [🤖 LLM SEO, AEO, GEO](#-llm-seo-aeo-geo) _**NEW!**_
+- [🤖 LLM SEO, AEO, GEO](#-llm-seo-aeo-geo)
 - [🦊 Marketing on Reddit](#-marketing-on-reddit)
 - [💌 Email Marketing](#-email-marketing)
 - [🧲 Content Marketing](#-content-marketing)
@@ -49,7 +50,7 @@ Launch platforms, software directories, and communities are an easy way to get t
 - [Peerlist](https://peerlist.io/)
 - [Indie Hackers](https://www.indiehackers.com/products)
 - [Hacker News](https://news.ycombinator.com/show)
-- [ProductHunt](https://www.producthunt.com/) - use this [guide](https://socialgrowthlab.notion.site/Engaging-your-network-for-a-Product-Hunt-Launch-fc37ed8746ba46ee914bc24e46d92dbd) to plan your Product Hunt launch
+- [ProductHunt](https://www.producthunt.com/)
 - [SideProjectors](https://www.sideprojectors.com/)
 - [LaunchIgniter](https://launchigniter.com/)
 - [PeerPush](https://peerpush.net/)
@@ -121,6 +122,18 @@ Launch platforms, software directories, and communities are an easy way to get t
 
 <br/><br/><br/>
 
+## 😾 Marketing for Product Hunt Launch
+Product Hunt is still one of the most effective ways to get early users (if you can pull off a successful launch). Yes, it takes a lot of preparation, promotion and follow-up work but hitting #1 on Product Hunt can get you a ton of honest feedback, downloads, users and PR buzz.
+
+Use these guides to plan your launch strategy:
+- [How to rank #1 on Product Hunt](https://tibo-maker.notion.site/Ultimate-guide-on-how-to-rank-1-on-Product-Hunt-589c000cd56f4baf9c64988a52eb4b4e)
+- [How to successfully launch on Product Hunt](https://www.lennysnewsletter.com/p/how-to-successfully-launch-on-product)
+- [Product Hunt launch step-by-step guide + templates](https://genesysgrowth.com/resources/product-hunt-launch-step-by-step-guide)
+- [Product Hunt Launch Workbook](https://olenabomko.notion.site/Product-Hunt-Launch-Workbook-2bebf9c31de98158ba98e164f0bdc1a1)
+
+<br/><br/><br/>
+
+
 ## 📷 Social Media Marketing
 Managing multiple accounts across all social media platforms can be pretty intense (there’s a reason why it’s a full-time job); however, there are a couple of strategies worth trying: building in public and social listening.
 
@@ -145,6 +158,7 @@ Managing multiple accounts across all social media platforms can be pretty inten
 **Other Social Media Marketing Guides:**
 - [Organic Growth Guide for TikTok and Instagram](https://www.post-bridge.com/growth-guide/start-here)
 - [Pinterest Growth Guide](https://www.blogtopin.com/growth-guide/start-here)
+- [How to Market a Viral App through organic UGC](https://youtu.be/9r4kS9zZj9s?si=E9WSZdrgd9BrybxH)
 
 <br/><br/><br/>
 
@@ -290,6 +304,7 @@ However, online advice on influencer marketing is often bad and outdated, so let
 - [Short Form Playbook from Jenny AI](https://www.starterstory.com/10m-playbook?utm_source=youtube&utm_campaign=10msaasplaybook) (also watch this [video](https://www.youtube.com/watch?v=KcCnqLBhvXY))
 - [How Clerk Partners with YouTube’s Dev Community](https://playbooks.hypergrowthpartners.com/p/how-clerk-partners-with-youtubes)
 - [5 Pillars of Successful Influencer Marketing Campaigns](https://knowledge.gtmstrategist.com/p/5-pillars-of-successful-influencer-marketing-campaigns)
+- [The B2B Influencer Marketing Playbook used by Lovable, Gamma & n8n](https://www.youtube.com/watch?v=f3wJ2LPlu3o)
 
 <br/><br/><br/>
 
@@ -417,6 +432,7 @@ So, how do you get feedback? Here are a few resources to get you started:
 - [The Product-Market Fit Game](https://posthog.com/founders/product-market-fit-game)
 - [40 things we’ve learned about marketing for developers](https://newsletter.posthog.com/p/40-things-weve-learned-about-marketing)
 - [How to create a good GitHub Readme](https://www.markepear.dev/blog/github-readme-guide)
+- [Marketing Skills for Claude Code](https://github.com/coreyhaines31/marketingskills)
 
 <br/><br/><br/>
 
